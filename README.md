@@ -20,8 +20,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="center">📧 Email: nqnamfe1996@gmail.com<br>🌐 Blog: http://tsukpa.netlify.app</p>
 
 ###
@@ -58,20 +56,38 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tsukpa/tsukpa/output/snake.svg" alt="Snake animation" />
+<picture align="center"> 
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tsukpa.tsukpa&"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="center">/If the code doesn't bother you, don't bother it.\<br><br>\<br> \<br>         .--.<br>       | o_o |<br>       | :_/   |<br>      //      \ \<br>     (|          | )<br>    /'\  _   _   /`\<br>    \___)=(___/</h3>
-
-###
+<pre align="center">
+----------------------------------------
+<span>/If the code doesn't bother you, don't bother it.\</span>
+----------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+</pre>
