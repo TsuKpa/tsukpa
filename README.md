@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">📧 Email: nqnamfe1996@gmail.com<br>🌐 Blog: http://tsukpa.netlify.app</p>
+<p align="center">📧 Email: nqnamfe1996@gmail.com<br>🌐 Blog: https://tsukpa.netlify.app</p>
 
 ###
 
