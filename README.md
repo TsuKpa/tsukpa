@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">I am currently working as a Jr Web Developer. Outside of work, I do something about UI, UX, DevOps, mobile...</p>
+<p align="center">I am currently working as a Web Developer. Outside of work, I do something about UI, UX, DevOps, mobile...</p>
 
 ###
 
