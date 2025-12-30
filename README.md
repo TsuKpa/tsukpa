@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">📧 Email: nqnamfe1996@gmail.com<br>🌐 Blog: [https://nqnam.dev/](https://nqnam.dev/)</p>
+<p align="center">📧 Email: nqnamfe1996@gmail.com<br>🌐 Blog: https://nqnam.dev/</p>
 
 ###
 
